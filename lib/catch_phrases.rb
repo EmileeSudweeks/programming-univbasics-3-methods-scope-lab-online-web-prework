@@ -1,4 +1,4 @@
-def mario
+def link 
   status = "It's-a me, Mario!"
   puts phrase
 end
