@@ -1,5 +1,5 @@
 def link 
-  status = "It's-a me, Mario!"
+  status = "It's Dangerous To Go Alone! Take This."
   puts phrase
 end
 
